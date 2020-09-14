@@ -19,14 +19,17 @@ sidebar:
     github: donaltuohy
 
     interests:
-      - item: Climbing
-        link:
+      - item: Solving Coding Problems
+        link: https://www.hackerrank.com/donaltuohy
 
-      - item: Snowboarding
-        link:
+      - item: Photography
+        link: https://www.instagram.com/dt_image/
 
       - item: Cooking
-        link:
+        link: http://donaltuohy.com/blog
+
+      - item: Sports (Gaelic Football, Snowboarding, Bouldering)
+        link: 
 
 career-profile:
     title: Career Profile
@@ -42,13 +45,10 @@ education:
       university: Trinity College Dublin
       time: 2014 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Achieved a First Class honours. Worked on multiple projects at different levels:
+          - Build a distributed file system using REST APIs. 
+          - Build a personal firewall to limit network requests.
+          - Created a virtual microprocessor with verilog.
 experiences:
     - role: Software Engineer | EDGE Team
       time: July 2018 - Present
