@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Donal Tuohy
@@ -14,7 +14,6 @@ sidebar:
     # Sidebar links
     email: donaltuohy@gmail.com
     phone: +353 87 667 2922
-    website: donaltuohy.com #do not add http://
     linkedin: Donal Tuohy
     github: donaltuohy
 
@@ -34,12 +33,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Software Engineer with 3+ years experience building highly resilient distributed services.
 education:
     - degree: Bsc in Computer Engineering
       university: Trinity College Dublin
@@ -54,30 +48,21 @@ experiences:
       time: July 2018 - Present
       company: Zendesk, Dublin
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Design, build and deploy highly performant and reliable APIs to increase developer efficiency.
-          - Build a thorough test suite alongside the code.
-          - Work with CI/CD pipelines.
-          - Debug production issues to solve customer and engineer issues.
+        - Designed, built and maintained distributed scala service for updating new proxy tier. Included designing and implementing a relational database, a RESTful API and integrations with AWS.
+        - Developed and maintained an extensive set of unit and integration tests to be run on CI/CD systems.
+        - Ensured there was extensive monitoring, alerting, documentation and runbooks for new service.
+        - Updated and debugged existing, highly critical, proxies serving traffic to all of the company’s microservices.
+        - Solely responsible for the maintenance and depreciation of a large legacy project. 
+        - Demo improvements and features to executive staff.
+
     - role: Software Engineering Intern
       time: Feb 2018 - July 2018
       company: Zendesk, Dublin
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Implemented a RESTful API for interacting with a new rate limiting microservice.
+        - Built GDPR pipeline for existing service with a hard deadline to meet GDPR regulations. 
+        - Experience working in an Agile development environment (Scrum & Kanban).
+
 projects:
     title: Projects
     intro: >
