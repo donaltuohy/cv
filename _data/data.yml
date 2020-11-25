@@ -33,16 +33,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Software Engineer with 3+ years experience building highly resilient distributed services.
-education:
-    - degree: Bsc in Computer Engineering
-      university: Trinity College Dublin
-      time: 2014 - 2018
-      details: |
-        Achieved a First Class honours. Worked on multiple projects at different levels:
-          - Build a distributed file system using REST APIs. 
-          - Build a personal firewall to limit network requests.
-          - Created a virtual microprocessor with verilog.
+      Software Engineer with 3 years experience building highly resilient distributed services.
 experiences:
     - role: Software Engineer | EDGE Team
       time: July 2018 - Present
@@ -62,22 +53,15 @@ experiences:
         - Implemented a RESTful API for interacting with a new rate limiting microservice.
         - Built GDPR pipeline for existing service with a hard deadline to meet GDPR regulations. 
         - Experience working in an Agile development environment (Scrum & Kanban).
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
+education:
+    - degree: Bsc in Computer Engineering
+      university: Trinity College Dublin
+      time: 2014 - 2018
+      details: |
+        Achieved a First Class honours. Worked on multiple projects at different levels:
+          - Build a distributed file system using REST APIs. 
+          - Build a personal firewall to limit network requests.
+          - Created a virtual microprocessor with verilog.
 skills:
     title: TODO Skills &amp; Proficiency
 
