@@ -24,18 +24,11 @@ sidebar:
       - item: Photography
         link: https://www.instagram.com/dt_image/
 
-      - item: Cooking
-        link: http://donaltuohy.com/blog
-
-      - item: Sports (Gaelic Football, Snowboarding, Bouldering)
-        link: 
+      - item: Sports (Gaelic Football, Running, Snowboarding, Bouldering)
 
     skills:
-      - item: Scala
-        link: https://www.hackerrank.com/donaltuohy
-
-      - item: Python
-        link: https://www.instagram.com/dt_image/
+      - item: Scala, Python
+      - item: AWS, Kubernetes, Chef, Docker, Nginx, Consul, MySQL, Git, Consul, Terraform, Akka, Kafka, Jenkins, Travis
 
 career-profile:
     title: Career Profile
@@ -51,7 +44,7 @@ experiences:
         - Ensured there was extensive monitoring, alerting, documentation and runbooks for new service.
         - Updated and debugged existing, highly critical, proxies serving traffic to all of the company’s microservices.
         - Solely responsible for the maintenance and depreciation of a large legacy project. 
-        - Demo improvements and features to executive staff.
+        - Gave multiple tech demos showing improvements and features to large audiences including executive staff.
 
     - role: Software Engineering Intern
       time: Feb 2018 - July 2018
