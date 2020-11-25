@@ -31,11 +31,11 @@ sidebar:
         link: 
 
     skills:
-    - item: Scala
-      link: https://www.hackerrank.com/donaltuohy
+      - item: Scala
+        link: https://www.hackerrank.com/donaltuohy
 
-    - item: Python
-      link: https://www.instagram.com/dt_image/
+      - item: Python
+        link: https://www.instagram.com/dt_image/
 
 career-profile:
     title: Career Profile
