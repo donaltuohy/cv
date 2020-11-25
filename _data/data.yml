@@ -30,6 +30,13 @@ sidebar:
       - item: Sports (Gaelic Football, Snowboarding, Bouldering)
         link: 
 
+    skills:
+    - item: Scala
+      link: https://www.hackerrank.com/donaltuohy
+
+    - item: Python
+      link: https://www.instagram.com/dt_image/
+
 career-profile:
     title: Career Profile
     summary: |
@@ -62,9 +69,4 @@ education:
           - Build a distributed file system using REST APIs. 
           - Build a personal firewall to limit network requests.
           - Created a virtual microprocessor with verilog.
-skills:
-    title: TODO Skills &amp; Proficiency
 
-    toolset:
-      - name: Scala
-        level: 100%
