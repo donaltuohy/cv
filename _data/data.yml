@@ -28,7 +28,7 @@ sidebar:
 
     skills:
       - item: Scala, Python
-      - item: AWS, Kubernetes, Chef, Docker, Nginx, Consul, MySQL, Git, Consul, Terraform, Akka, Kafka, Jenkins, Travis
+      - item: AWS, Kubernetes, Chef, Docker, Nginx, MySQL, Git, Consul, Terraform, Akka, Kafka, Jenkins, Travis
 
 career-profile:
     title: Career Profile
